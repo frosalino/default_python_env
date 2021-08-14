@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintPath": "/usr/bin/pylint",
+    "python.linting.pylintEnabled": true
+}
